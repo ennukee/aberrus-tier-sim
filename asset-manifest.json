@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aberrus-tier-sim/static/css/main.0f90d62c.css",
+    "main.js": "/aberrus-tier-sim/static/js/main.9d1f8fcb.js",
+    "index.html": "/aberrus-tier-sim/index.html",
+    "main.0f90d62c.css.map": "/aberrus-tier-sim/static/css/main.0f90d62c.css.map",
+    "main.9d1f8fcb.js.map": "/aberrus-tier-sim/static/js/main.9d1f8fcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f90d62c.css",
+    "static/js/main.9d1f8fcb.js"
+  ]
+}
